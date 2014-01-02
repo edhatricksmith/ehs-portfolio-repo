@@ -1,26 +1,13 @@
-# _Project_
+# _Eds Portfolio test repo_
 
-_Description: What does this project do and who does it serve?_
+_Description: Repository for Ed Hatrick-Smith's portfolio site. Currently repo is for testing purposes._
 
 ## Project Setup
 
-_How do I, as a developer, start working on the project?_ 
+_Clone the repo and then upload files to host directory_ 
 
-1. _What dependencies does it have (where are they expressed) and how do I install them?_
-2. _How can I see the project working before I change anything?_
-
-## Testing
-
-_How do I run the project's automated tests?_
-
-### Unit Tests
-
-1. `rake spec`
-
-### Integration Tests
-
-1. _Run other local services / provide credentials for external services._
-2. `rake spec:integration`
+1. _Links to jQuery from Google CDN_
+2. _<a href="http://ed-hatrick-smith.com">Production version of the site can be found here</a>_
 
 ## Deploying
 
@@ -41,14 +28,5 @@ _Examples of common tasks_
 > - How to make curl requests while authenticated via oauth.
 > - How to monitor background jobs.
 > - How to run the app through a proxy.
-
-## Contributing changes
-
-- _Internal git workflow_
-- _Pull request guidelines_
-- _Tracker project_
-- _Google group_
-- _irc channel_
-- _"Please open github issues"_
 
 ## License
