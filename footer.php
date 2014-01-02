@@ -1,0 +1,1 @@
+<footer><p class="footer"><a class="footer" href="/contacts/contacts.php">Contact Me</a>     |     <a class="footer" href="/EdHatrickSmith-CV.pdf" target="_blank">Download my C.V.</a>     |     <a class="footer" href="/site-development-guide.php">Site Development Guide</a></p></footer>
